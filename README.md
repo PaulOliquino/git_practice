@@ -18,3 +18,8 @@ BinaryTranslator (Py)
     The program prompts the user if the user wants to either translate text into binary (1) or translate binary into text (2).
     The program also features a output delimiter string that utilizes spaces to separate binary code to be more readable.
     The user can freely translate text and numbers into binary, and vice versa as long as there is a space utilized to separate binary characters.
+
+Tic Tac Toe (HTML, CSS, JS)
+
+    This is a practice web development project that emulates tic tac toe.
+    The folder includes the HTML, CSS, and JavaScript code.
