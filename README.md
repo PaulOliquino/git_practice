@@ -12,3 +12,9 @@ PasswordChecker (Py)
     Program checks parameters if password strength is weak, medium, or strong.
     The parameters for a medium strength password is that the password must have 6 or more characters, a special character, and at least 1 number.
     Parameters for strong password is 8 or more characters, a special character, and at least 1 number.
+
+BinaryTranslator (Py)
+
+    The program prompts the user if the user wants to either translate text into binary (1) or translate binary into text (2).
+    The program also features a output delimiter string that utilizes spaces to separate binary code to be more readable.
+    The user can freely translate text and numbers into binary, and vice versa as long as there is a space utilized to separate binary characters.
